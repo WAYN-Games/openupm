@@ -1,7 +1,7 @@
-name: ep.u3d.editor.ui
-displayName: EP.U3D.EDITOR.UI
-description: UI editor.
-repoUrl: 'https://github.com/wellshsu/EP.U3D.EDITOR.UI'
+name: ep.u3d.editor.scene
+displayName: EP.U3D.EDITOR.SCENE
+description: Scene editor.
+repoUrl: 'https://github.com/wellshsu/EP.U3D.EDITOR.SCENE'
 parentRepoUrl: null
 licenseSpdxId: GPL-2.0
 licenseName: GNU General Public License v2.0
@@ -17,4 +17,4 @@ readme: 'master:README.md'
 readme_zhCN: ''
 displayName_zhCN: ''
 description_zhCN: ''
-createdAt: 1655696498415
+createdAt: 1659600362289
